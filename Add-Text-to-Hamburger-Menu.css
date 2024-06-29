@@ -1,0 +1,5 @@
+.elementor-menu-toggle:after {
+    content:'My Hamburger Menu'; /* (Change the text in the ' ' and replace with your own) */
+    position: relative;
+    margin-left: 10px; /* (FYI: Adjust the margin to fix your particular design. You can also add margin-top, margin-right as it applies to your design) */
+    }
